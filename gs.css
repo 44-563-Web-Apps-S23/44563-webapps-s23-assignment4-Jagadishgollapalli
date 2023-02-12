@@ -61,3 +61,15 @@ th{
     color: rgb(225, 224, 227);
     background-color: darkslategray;
 }
+.image{
+    margin: 10px;
+}
+.p{
+    margin: 20px;
+}
+ul, li{
+    list-style-type: none;
+    background-color: rgb(191, 203, 170);
+    float: left;
+    margin: 5px 35px 10px 10px;
+}
