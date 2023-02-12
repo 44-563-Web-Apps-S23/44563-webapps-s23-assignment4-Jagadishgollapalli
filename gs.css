@@ -13,6 +13,10 @@
     background-color: rgb(154, 156, 94);
     color: rgb(255, 255, 255);
 }
+h2{
+    color: aquamarine;
+    background-color: rgb(158, 100, 24);
+}
 .name{
     font-style: italic;
     font-size: medium;
@@ -24,6 +28,14 @@
 }
 .ELLEN{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: crimson;
+}
+.FIGURE{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blueviolet;
+}
+.JOEL{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: crimson;
 }
 .table-play{
