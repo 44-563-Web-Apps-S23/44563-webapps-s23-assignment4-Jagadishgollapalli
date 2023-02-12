@@ -26,3 +26,20 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: crimson;
 }
+.table-play{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 1px solid black;
+    color: black;
+    border-collapse: collapse;
+    text-align: center;
+    white-space: nowrap;
+    width: 30%;
+    height: 150px;
+    padding-right: 20%;
+    margin: 5px 10px 5px 20px;
+}
+th{
+    font-family: sans-serif;
+    color: rgb(225, 224, 227);
+    background-color: darkslategray;
+}
