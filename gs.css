@@ -26,6 +26,12 @@ h2{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: blueviolet;
 }
+.ANDREW:hover{
+    text-shadow: #FC0 1px 0 10px;
+    filter: blur(0.5px);
+    /* border: 2px dotted black; */
+    border-style: dashed;
+}
 .ELLEN{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: crimson;
